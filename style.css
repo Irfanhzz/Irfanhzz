@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+ES:wght@100..400&display=swap');
+body {
+    font-family: 'Playwrite ES', sans-serif ;
+}
+
+
+.navbar.navbar-dark.bg-dark {
+    background: #3c3a3a  !important;
+    font-weight: 500;
+}
+
+.navbar .navbar-brand{
+    font-weight: 700;
+}
+
+.navbar .nav-link{
+    font-weight: 500;
+    color: bisque;
+    text-transform: uppercase;
+}
+
+.hero .card-title{
+    margin-top: 150px;
+    font-weight: 800;
+}
+
+
+.menu .section-title{
+    font-weight: 700;
+    color: rgb(72, 70, 67);
+    
+}
+
+
+.menu .section-paragraph{
+    color: rgb(72, 70, 67);
+}
+
+.menu .card {
+    background-color: #3c3a3a;
+    color: bisque;
+}
+
+
+.menu .card img{
+    border: 2px solid bisque;
+}
+
+.menu .card .card-title{
+    margin-top: 20px;
+}
+
+.bawah{
+    background-image: url('asset/img/und.jpg');
+    background-size: contain;
+    
+}
+
+.bawah img {
+
+    width: 200px;
+}
+ 
+.bawah blockquote{
+    
+    font-weight: 500;
+}
+
+footer {
+    background-color: #3c3a3a;
+}
